@@ -17,3 +17,8 @@
 #complaintsTable th#header{
     background-color: #bfbfbf;
 }
+
+#imgLabelTable {
+  display: grid;
+  justify-content: end;
+}
